@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou a Márcia</h1>
+<h1 align="center">Olá 👋 Eu sou a Márcia</h1>
 
 <div align="center">
   <a href="https://github.com/sousamarcia">
